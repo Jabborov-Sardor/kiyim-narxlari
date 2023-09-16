@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 850px;
+  height: 500px;
+  margin: auto;
+  background-color: #fff;
+}
+
+body {
+  background-color: green;
+  margin-top: 20px;
+}
